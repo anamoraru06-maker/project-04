@@ -1,0 +1,17 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    background-image: linear-gradient(to bottom right, #00F490 0%, #00BBC9 100%);
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    
+}
+
+.jumbotron {
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    border-radius: 0 0 10px 10px;
+}
+
