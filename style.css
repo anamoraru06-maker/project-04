@@ -32,3 +32,9 @@ h1 {
     background-color: white;
     
 }
+
+.mx-auto
+{
+    margin-right: none;
+}
+
