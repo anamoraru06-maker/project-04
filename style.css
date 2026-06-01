@@ -38,3 +38,13 @@ h1 {
     margin-right: none;
 }
 
+.btn-primary 
+{
+    background-color: #0fd6c8;
+    border-color: #00ecf4;
+}
+.btn-primary:hover
+{
+    background-color: #06bbc1;
+   
+}
